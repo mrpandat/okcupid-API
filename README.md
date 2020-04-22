@@ -1,4 +1,4 @@
-OKCupidjs
+OKCupid-API BASED ON https://github.com/tranhungt/okcupidjs
 =========
 Automate your OKCupid Activity. This is an API Wrapper for OkCupid App, allowing you to automate processes and collect data for further analysis.
 
